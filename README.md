@@ -13,3 +13,8 @@ Xander and Anshul's Github Repot for Fall 2025
 #### add more comprehensive documentation of spatial (global, country-level, subnational unit) and temporal (frequency within year as well as years covered) coverage for datasets
 #### Track if Yale has access to datasets documented
 #### Start work on replicating Australian accounts based on CWON, UNEP, our own accounting
+
+
+### Week 4
+#### Build some vlookup machinery to make assembling australian data 
+#### organize data according which dataset you wish to build
